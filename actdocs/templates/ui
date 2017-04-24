@@ -127,7 +127,7 @@ function linkTo_UnCryptMailto( s )
 										</header>
 										<ul class="link-list">
 											<li><a target="_blank" href="http://www.oetiker.ch/"><img src="[% make_uri_info('images', 'op-logo-200.png') %]" alt="Oetiker + Partner AG" /></a></li>
-											<li><a target="_blank" href="https://perl.careers/"><img src="[% make_uri_info('images', 'perlcareers.png') %]" alt="Perl Careers" /></a></li>
+											<li><a target="_blank" href="https://perl.careers/"><img src="[% make_uri_info('images', 'perlcareers_200.png') %]" alt="Perl Careers" /></a></li>
                                                                                         <!-- <li><a target="_blank" href="http://www.open.ch/"><img src="[% make_uri_info('images', 'open-systems.png') %]" alt="Open Systems AG" /></a></li> -->
                                                                                         <!-- <li><a target="_blank" href="http://www.booking.com/"><img src="[% make_uri_info('images', 'booking.png') %]" alt="bookging.com" /></a></li> -->
                                                                                         <!-- <li><a target="_blank" href="http://www.perl-academy.de/"><img src="[% make_uri_info('images', 'pa-logo.jpg') %]" alt="perl academy" /></a></li> -->
