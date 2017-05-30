@@ -78,6 +78,7 @@ function linkTo_UnCryptMailto( s )
 								<a target="_blank" href="http://www.facebook.com/swissperlworkshop"><img src="[% make_uri_info('images', 'facebook.png') %]" alt="Facebook" /></a>
 								<a target="_blank" href="https://www.xing.com/events/swiss-perl-workshop-2017-1822847"><img src="[% make_uri_info('images', 'xing.png') %]" alt="Xing" /></a>
 								<a target="_blank" href="http://www.meetup.com/r/inbound/0/0/shareimg/http://www.meetup.com/Swiss-Perl-Community-Meetup/?a=shareimg"><img src="[% make_uri_info('images', 'meetup.png') %]" alt="Meetup" /></a>
+								<a target="_blank" href="https://www.instagram.com/perl_events/"><img src="[% make_uri_info('images', 'instagramm.png') %]" alt="Instagramm" /></a>
 							</social>
 						</div>
 					</div>
