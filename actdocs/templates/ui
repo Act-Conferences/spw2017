@@ -103,6 +103,7 @@ function linkTo_UnCryptMailto( s )
 										<div class="menu-item"><a href="[% make_uri('villars_things_todo.html') %]">Things to do</a></div>
 										<div class="menu-item"><a href="[% make_uri('sponsoring.html') %]">Sponsoring</a></div>
 										<div class="menu-item"><a href="[% make_uri('organisers.html') %]">Organisers</a></div>
+										<div class="menu-item"><a href="[% make_uri('code_of_conduct.html') %]">Code of Conduct</a></div>
 										[% PROCESS menu %]
 									</section>
 							</div>
