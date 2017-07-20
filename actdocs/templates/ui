@@ -102,6 +102,7 @@ function linkTo_UnCryptMailto( s )
 										<div class="menu-item"><a href="[% make_uri('villars_hotels.html') %]">Accommodation</a></div>
 										<div class="menu-item"><a href="[% make_uri('villars_things_todo.html') %]">Things to do</a></div>
 										<div class="menu-item"><a href="[% make_uri('sponsoring.html') %]">Sponsoring</a></div>
+										<div class="menu-item"><a href="[% make_uri('sponsors.html') %]">Our Sponsors</a></div>
 										<div class="menu-item"><a href="[% make_uri('organisers.html') %]">Organisers</a></div>
 										<div class="menu-item"><a href="[% make_uri('code_of_conduct.html') %]">Code of Conduct</a></div>
 										[% PROCESS menu %]
@@ -123,7 +124,7 @@ function linkTo_UnCryptMailto( s )
 								<!-- Right Sidebar -->
 									<section>
 										<header>
-											<h2>Sponsors</h2>
+                                                                                <h2><a href="[% make_uri('sponsors.html') %]">Sponsors</a></h2>
 										</header>
 										<ul class="link-list">
 											<li><a target="_blank" href="https://www.givengain.com/"><img src="[% make_uri_info('images', 'givengain.gif') %]" alt="GivenGain" /></a></li>
