@@ -124,7 +124,7 @@ function linkTo_UnCryptMailto( s )
 								<!-- Right Sidebar -->
 									<section>
 										<header>
-                                                                                <h2><a href="[% make_uri('sponsors.html') %]">Sponsors</a></h2>
+                                                                                <h2>Sponsors</h2>
 										</header>
 										<ul class="link-list">
 											<li><a target="_blank" href="https://www.givengain.com/"><img src="[% make_uri_info('images', 'givengain.gif') %]" alt="GivenGain" /></a></li>
