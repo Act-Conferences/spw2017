@@ -101,8 +101,8 @@ function linkTo_UnCryptMailto( s )
 										<div class="menu-item"><a href="[% make_uri('villars_getting_to.html') %]">Getting there</a></div>
 										<div class="menu-item"><a href="[% make_uri('villars_hotels.html') %]">Accommodation</a></div>
 										<div class="menu-item"><a href="[% make_uri('villars_things_todo.html') %]">Things to do</a></div>
-										<div class="menu-item"><a href="[% make_uri('sponsoring.html') %]">Sponsoring</a></div>
 										<div class="menu-item"><a href="[% make_uri('sponsors.html') %]">Our Sponsors</a></div>
+										<div class="menu-item"><a href="[% make_uri('sponsoring.html') %]">Sponsoring</a></div>
 										<div class="menu-item"><a href="[% make_uri('organisers.html') %]">Organisers</a></div>
 										<div class="menu-item"><a href="[% make_uri('code_of_conduct.html') %]">Code of Conduct</a></div>
 										[% PROCESS menu %]
@@ -133,7 +133,6 @@ function linkTo_UnCryptMailto( s )
                                                                                         <li><a target="_blank" href="http://www.perl-services.de/"><img src="[% make_uri_info('images', 'perl-services.svg') %]" width="210px" style="background-color: #267389; border-radius: 4px; padding: 6px;" alt="perl services" /></a></li> 
                                                                                         <li><a target="_blank" href="http://www.booking.com/"><img src="[% make_uri_info('images', 'booking.png') %]" alt="bookging.com" /></a></li> 
                                                                                         <li><a target="_blank" href="http://www.open.ch/"><img src="[% make_uri_info('images', 'open-systems.png') %]" alt="Open Systems AG" /></a></li>
-                                                                                        <!-- <li><a target="_blank" href="http://www.booking.com/"><img src="[% make_uri_info('images', 'booking.png') %]" alt="bookging.com" /></a></li> -->
                                                                                         <!-- <li><a target="_blank" href="https://www.bloonix.de/"><img src="[% make_uri_info('images', 'bloonix.png') %]" alt="BLOONIX" /></a></li> -->
                                                                                         <!-- <li><a target="_blank" href="http://www.gfu.net/"><img src="[% make_uri_info('images', 'gfu.png') %]" alt="GFU" /></a></li> -->
                                                                                         <!-- <li><a target="_blank" href="http://www.plusw.de/"><img src="[% make_uri_info('images', 'plusw.jpg') %]" alt="plusW" /></a></li> -->
